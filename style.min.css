@@ -187,13 +187,25 @@ main {
   word-break: break-word;
 }
 .name {
+  font-family: "Futura", "Tahoma", sans-serif;
   font-weight: bold;
-  font-size: 1.25rem;
+  font-size: 1.75rem;
   margin: 0;
+  color: #294962 !important;
 }
 .jobtitle {
+  font-family: "Futura", "Tahoma", sans-serif;
+  font-weight: bold;
   font-size: 1rem;
   margin: 0.25rem 0 0.25rem 0;
+  color: #294962 !important;
+}
+.workplace {
+  font-family: "Futura", "Tahoma", sans-serif;
+  font-weight: bond;
+  font-size: 1rem;
+  margin: 0.25rem 0 0.25rem 0;
+  color: #244157 !important;
 }
 .desc,
 .textC {
@@ -373,9 +385,11 @@ video {
   margin: -1rem 0 0;
 }
 .price {
+  font-family: "Futura", "Tahoma", sans-serif;
   margin: 2rem 0 0;
   font-size: 1.25rem;
   font-weight: bold;
+  color: #294962 !important;
 }
 .label {
   display: inline-block;
@@ -389,9 +403,11 @@ video {
   margin: 0;
 }
 .title {
+  font-family: "Futura", "Tahoma", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
   margin: 0 0 0.5rem;
+  color: #294962 !important;
 }
 .mediaInfo {
   margin: 0;
@@ -450,6 +466,7 @@ footer a {
 .pronouns{display:block;font-size:.9rem;opacity:.8;font-weight:normal;margin:0 0 .5rem}
 
 .bizaddr {
+  font-family: "Futura", "Tahoma", sans-serif;
   font-size: 0.8rem;
   opacity: 0.6;
   margin-top: 0px !important;
